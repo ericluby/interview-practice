@@ -1,0 +1,4 @@
+1. create directory and open in VS code
+2. create server.js file
+3. install express via npm
+4.
