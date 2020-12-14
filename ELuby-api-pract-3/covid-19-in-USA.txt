@@ -1,0 +1,58 @@
+Alabama: 292841 cases, 4102 deaths
+Alaska: 40497 cases, 176 deaths
+Arizona: 402589 cases, 7322 deaths
+Arkansas: 184252 cases, 2911 deaths
+California: 1549176 cases, 20958 deaths
+Colorado: 285634 cases, 3871 deaths
+Connecticut: 146761 cases, 5363 deaths
+Delaware: 44876 cases, 815 deaths
+Diamond Princess: 49 cases, 0 deaths
+District of Columbia: 24643 cases, 713 deaths
+Florida: 1116973 cases, 19785 deaths
+Georgia: 538040 cases, 10075 deaths
+Grand Princess: 103 cases, 3 deaths
+Guam: 7079 cases, 115 deaths
+Hawaii: 19511 cases, 271 deaths
+Idaho: 120632 cases, 1169 deaths
+Illinois: 841688 cases, 15231 deaths
+Indiana: 419536 cases, 6758 deaths
+Iowa: 255009 cases, 3208 deaths
+Kansas: 188460 cases, 2072 deaths
+Kentucky: 220659 cases, 2192 deaths
+Louisiana: 264191 cases, 6767 deaths
+Maine: 15620 cases, 257 deaths
+Maryland: 232009 cases, 5100 deaths
+Massachusetts: 285725 cases, 11307 deaths
+Michigan: 465159 cases, 11195 deaths
+Minnesota: 375398 cases, 4418 deaths
+Mississippi: 177947 cases, 4180 deaths
+Missouri: 350388 cases, 4602 deaths
+Montana: 72644 cases, 816 deaths
+Nebraska: 147688 cases, 1365 deaths
+Nevada: 183949 cases, 2520 deaths
+New Hampshire: 30244 cases, 600 deaths
+New Jersey: 396496 cases, 17732 deaths
+New Mexico: 118358 cases, 1913 deaths
+New York: 764966 cases, 35441 deaths
+North Carolina: 429776 cases, 5796 deaths
+North Dakota: 87590 cases, 1152 deaths
+Northern Mariana Islands: 113 cases, 2 deaths
+Ohio: 553461 cases, 7477 deaths
+Oklahoma: 233336 cases, 2042 deaths
+Oregon: 92839 cases, 1150 deaths
+Pennsylvania: 485330 cases, 12371 deaths
+Puerto Rico: 61723 cases, 1266 deaths
+Recovered: 0 cases, 0 deaths
+Rhode Island: 70818 cases, 1509 deaths
+South Carolina: 248798 cases, 4685 deaths
+South Dakota: 90407 cases, 1243 deaths
+Tennessee: 442953 cases, 5400 deaths
+Texas: 1400728 cases, 24347 deaths
+Utah: 231821 cases, 1038 deaths
+Vermont: 5626 cases, 95 deaths
+Virgin Islands: 1791 cases, 23 deaths
+Virginia: 278615 cases, 4409 deaths
+Washington: 199735 cases, 2879 deaths
+West Virginia: 62151 cases, 966 deaths
+Wisconsin: 465991 cases, 4324 deaths
+Wyoming: 38907 cases, 321 deaths
